@@ -1,3 +1,7 @@
+#Changed Category
+The default start_clean category value is changed to '4'.
+
+
 # pybotvac
 
 This is an unofficial API for controlling Neato Botvac Connected vacuum robots.
